@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ashleygwilliams/my_package/issues"
   },
-  "homepage": "https://github.com/princel3lcS/meow-log"
+  "homepage": "https://github.com/princel3lcS/meow-log",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
