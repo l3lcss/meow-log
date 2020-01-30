@@ -1,6 +1,6 @@
 {
   "name": "meow-log",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "this is logger of meowwwwww :3 😸😸",
   "main": "src/index.js",
   "scripts": {
