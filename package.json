@@ -1,0 +1,23 @@
+{
+  "name": "meow-log",
+  "version": "1.0.0",
+  "description": "this is logger of meowwwwww :3 😸😸",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/princel3lcS/meow-log.git"
+  },
+  "keywords": [
+    "meoww",
+    "log"
+  ],
+  "author": "princel3lcS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/my_package/issues"
+  },
+  "homepage": "https://github.com/princel3lcS/meow-log"
+}
